@@ -1,5 +1,4 @@
-{
-  "heroes": [
+[
     {
       "id": 11,
       "name": "Mr. Albela"
@@ -41,4 +40,3 @@
       "name": "Tornado"
     }
   ]
-}
